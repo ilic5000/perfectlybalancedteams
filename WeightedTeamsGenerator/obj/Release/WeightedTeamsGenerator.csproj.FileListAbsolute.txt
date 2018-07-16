@@ -1,0 +1,113 @@
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\adammilenkovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\aleksandarjacimovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\bojanpetkovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\dusanjonovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\dusanmarjanovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\dusannesic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\dusanvelickovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\igorjocic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\magnushult.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\mladengligorijevic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\nemanjapetrovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\nenaddjordjevic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\nenadilic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\nenadkragovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\niclasboman.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\sasamladenovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\savastevanovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\slobodanzivkovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\srdjankostadinovic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\stefanpetronijevic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\stefantasic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\stevankostic.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\Images\Players\unknown.jpg
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\PlayersData\playersData.txt
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe.config
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.pdb
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\MainWindow.g.cs
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\App.g.cs
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_Content.g.cs
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.cache
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.lref
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\MainWindow.baml
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.g.resources
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.Properties.Resources.resources
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.GenerateResource.Cache
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.exe
+C:\Users\NELEX\source\repos\WeightedTeamsGenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.pdb
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe.config
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.exe
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.pdb
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\adammilenkovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\aleksandarjacimovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\bojanpetkovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\dusanjonovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\dusanmarjanovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\dusannesic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\dusanvelickovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\igorjocic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\magnushult.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\mladengligorijevic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\nemanjapetrovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\nenaddjordjevic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\nenadilic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\nenadkragovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\niclasboman.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\sasamladenovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\savastevanovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\slobodanzivkovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\srdjankostadinovic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\stefanpetronijevic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\stefantasic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\stevankostic.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\Images\Players\unknown.jpg
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\PlayersData\playersData.txt
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.pdb
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csprojResolveAssemblyReference.cache
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\MainWindow.g.cs
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\App.g.cs
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_Content.g.cs
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.cache
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.lref
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\MainWindow.baml
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.g.resources
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.Properties.Resources.resources
+C:\Users\nenad\Documents\AAAAAAAAAAAAAAAAAAAAAAAAAAA\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.GenerateResource.Cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\bin\Release\Images\Players\unknown.jpg
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\MainWindow.g.cs
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\App.g.cs
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_Content.g.cs
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.lref
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\MainWindow.baml
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.g.resources
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.Properties.Resources.resources
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.GenerateResource.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.exe
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.pdb
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\bin\Release\PlayersData\playersData.txt
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe.config
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.pdb
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\bin\Release\Images\Players\unknown.jpg
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\bin\Release\PlayersData\playersData.txt
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe.config
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.exe
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\bin\Release\WeightedTeamsGenerator.pdb
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csprojAssemblyReference.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\MainWindow.g.cs
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\App.g.cs
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_Content.g.cs
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator_MarkupCompile.lref
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\MainWindow.baml
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.g.resources
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.Properties.Resources.resources
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.GenerateResource.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.exe
+C:\Users\nenad\Documents\za pushhhhhhhhhhhhh\teamgenerator\perfectlybalancedteams\WeightedTeamsGenerator\obj\Release\WeightedTeamsGenerator.pdb

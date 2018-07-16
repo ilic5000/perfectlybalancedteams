@@ -1,0 +1,184 @@
+﻿<Window x:Name="MainWindow1" x:Class="WeightedTeamsGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeightedTeamsGenerator"
+        mc:Ignorable="d"
+        Title="Futsal Team Generator v0.2" Height="960.5" Width="909" ResizeMode="CanMinimize">
+    <Grid Height="1234" Margin="0,0,-446,-323" >
+        <ProgressBar Visibility="Hidden" Name="progressBarMagic" HorizontalAlignment="Left" Height="10" Margin="750,167,0,0" VerticalAlignment="Top" Width="100" Value="23" IsIndeterminate="True"/>
+        <Image Margin="10,10,648,322" Source="Images/futsal_pitch.png" Stretch="Fill"/>
+
+        <Ellipse x:Name="Team2Player1" Margin="169,503,1063,619">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label Name="Team2Player1Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="169,620,0,0" VerticalAlignment="Top" Foreground="White"
+               />
+
+        <Ellipse Name="Team2Player2" Margin="448,503,784,620">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label Name="Team2Player2Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="454,619,0,0" VerticalAlignment="Top" Foreground="White"
+               />
+
+
+        <Ellipse Name="Team2Player3" Margin="165,656,1068,472">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label Name="Team2Player3Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="165,767,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+
+        <Ellipse Name="Team2Player4" Margin="448,650,784,472">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label Name="Team2Player4Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="454,767,0,0" VerticalAlignment="Top" Foreground="White" />
+
+
+        <Ellipse Name="Team2Player5" Margin="295,758,947,371">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team2Player5Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="294,863,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+
+        <Ellipse x:Name="Team2Player6" Visibility="Hidden"  Margin="619,686,650,472" >
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team2Player6Label"  Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="591,767,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+
+        <Ellipse x:Name="Team2Player7" Visibility="Hidden" Margin="619,793,650,365" >
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team2Player7Label" Visibility="Hidden"  Content="Team1Player1Label" HorizontalAlignment="Left" Margin="590,869,0,0" VerticalAlignment="Top" Foreground="White" />
+
+        <Label x:Name="team1LabelValue"  Visibility="Hidden" Content="?" HorizontalAlignment="Left" Margin="326,422,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Impact" Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect BlurRadius="8" Direction="325"/>
+            </Label.Effect>
+        </Label>
+        <Label Name="team2LabelValue" Visibility="Hidden" Content="?" HorizontalAlignment="Left" Margin="326,470,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Impact" Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect BlurRadius="8" Direction="325"/>
+            </Label.Effect>
+        </Label>
+
+        <Button x:Name="loadPlayersDataButton" Content="Load players data" Click="LoadPlayersDataButton_Click" HorizontalAlignment="Left" Margin="725,39,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="magicButton" Content="Magic()" Click="Magic" HorizontalAlignment="Left" Margin="725,107,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="revealTeam1Button" Visibility="Hidden" Content="Reveal Team 1" Click="RevealTeam1Button_Click" HorizontalAlignment="Left" Margin="725,232,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="revealTeam2Button" Visibility="Hidden" Content="Reveal Team 2"  Click="RevealTeam2Button_Click" HorizontalAlignment="Left" Margin="725,299,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="nextSuggestionButton" Visibility="Hidden" Click="NextSuggestionButton_Click" Content="Next suggestion" HorizontalAlignment="Left" Margin="725,445,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="firstSuggestionButton" Visibility="Hidden" Click="FirstsSuggestionButton_Click" Content="First suggestion" HorizontalAlignment="Left" Margin="726,515,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="increaseDifferenceButton" Visibility="Hidden" Click ="IncreaseDifferenceButton_Click" Content="Increase difference" HorizontalAlignment="Left" Margin="726,584,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+        <Button x:Name="decreaseDifferenceButton" Visibility="Hidden" Click ="DecreaseDifferenceButton_Click" Content="Decrease difference" HorizontalAlignment="Left" Margin="726,651,0,0" VerticalAlignment="Top" Width="151" Height="60"/>
+
+        <Label Name="differenceCurrentLabel" Visibility="Hidden" Content="Difference: " HorizontalAlignment="Left" Margin="726,384,0,0" VerticalAlignment="Top"/>
+        <Label Name="numberOfSuggestionsLabel" Visibility="Hidden" Content="Number of suggestions: " HorizontalAlignment="Left" Margin="726,409,0,0" VerticalAlignment="Top"/>
+
+        <Ellipse x:Name="Team1Player1" Margin="165,298,1067,824">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player1Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="165,410,0,0" VerticalAlignment="Top" Foreground="White"
+               />
+        <Ellipse x:Name="Team1Player2" Margin="444,299,788,824">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player2Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="448,409,0,0" VerticalAlignment="Top" Foreground="White"
+               />
+        <Ellipse x:Name="Team1Player3" Margin="164,143,1069,985">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player3Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="169,255,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+        <Ellipse x:Name="Team1Player4" Margin="442,143,790,979">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player4Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="448,255,0,0" VerticalAlignment="Top" Foreground="White" />
+
+        <Ellipse x:Name="Team1Player5" Margin="294,51,944,1078">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg" />
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player5Label" Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="290,157,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+        <Ellipse x:Name="Team1Player6" Visibility="Hidden" Margin="622,153,647,1005" >
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player6Label"  Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="590,229,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+        <Ellipse x:Name="Team1Player7" Visibility="Hidden" Margin="622,39,647,1119" >
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Images/Players/unknown.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label x:Name="Team1Player7Label"  Visibility="Hidden" Content="Team1Player1Label" HorizontalAlignment="Left" Margin="590,118,0,0" VerticalAlignment="Top" Foreground="White" />
+
+    </Grid>
+</Window>

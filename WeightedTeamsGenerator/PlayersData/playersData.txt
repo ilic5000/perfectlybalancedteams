@@ -1,0 +1,11 @@
+ronaldo, 949
+messi, 670
+modric, 870
+buskec, 586
+xavi, 563
+pepe, 619
+kante, 754
+grizman, 754
+loris, 840
+umtiti, 390
+#djuric, 240
